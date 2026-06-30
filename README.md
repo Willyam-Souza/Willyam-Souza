@@ -25,4 +25,4 @@ Busco constantemente aplicar boas práticas de engenharia de software e extrair 
 ### 📬 Vamos nos conectar?
 
 * **LinkedIn:** (www.linkedin.com/in/willyamsouza)
-* **E-mail:** (mailto:willyamoffice@gmail.com)
+* **E-mail:** (willyamoffice@gmail.com)
