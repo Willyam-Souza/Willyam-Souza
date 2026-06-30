@@ -24,5 +24,5 @@ Busco constantemente aplicar boas práticas de engenharia de software e extrair 
 
 ### 📬 Vamos nos conectar?
 
-* **LinkedIn:** [Seu Nome](www.linkedin.com/in/willyamsouza)
-* **E-mail:** [seu.email@email.com](mailto:willyamoffice@gmail.com)
+* **LinkedIn:** (www.linkedin.com/in/willyamsouza)
+* **E-mail:** (mailto:willyamoffice@gmail.com)
